@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalParks
+    xmlns="http://iregiste.github.io/assignment4-xml/NationalParks"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://iregiste.github.io/assignment4-xml/NationalParks https://iregiste.github.io/assignment4-xml/NationalParks.xsd">
 
 	<NationalPark Rating="4.9">
 		<Name>Great Smoky Mountains</Name>
